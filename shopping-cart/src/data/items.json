@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Halloween pumpkin",
+        "price":22.9,
+        "imgUrl":"/imgs/pumpkin.jpg"
+    },
+    {
+        "id":2,
+        "name":"Halloween decorations",
+        "price":18.5,
+        "imgUrl":"/imgs/decorations.jpg"
+    },
+    {
+        "id":3,
+        "name":"Halloween candles",
+        "price":10.6,
+        "imgUrl":"/imgs/candles.jpg"
+    },
+    {
+        "id":4,
+        "name":"Halloween pet costume",
+        "price":7.2,
+        "imgUrl":"/imgs/pet-costume.jpg"
+    }
+]
